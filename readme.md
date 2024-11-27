@@ -1,4 +1,4 @@
-# CodeNitrix - Online Coding Assessment Platform
+## Online Coding Assessment Platform
 
 This is an online coding assessment platform built using the MERN stack. It allows companies to create an account and organize their hiring tests on the platform. Users can code in JavaScript, and we plan to add more languages in the future.
 
@@ -35,10 +35,4 @@ To use the platform, follow these steps:
 - Add more programming languages (Python, Java, etc.)
 - Add email notifications
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Access the Platform
-You can access the platform at https://code-nitrix-frontend.vercel.app/  
-Sample Test ID: 644241e8904f788f35c8c631
